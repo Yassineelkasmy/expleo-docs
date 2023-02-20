@@ -20,4 +20,4 @@
 ## Setup Server 3
 
 * [🛠 Jenkins Server](setup-server-3/jenkins-server.md)
-* [☕ Configuring Jenkins for Spring Boot java maven applications](setup-server-3/configuring-jenkins-for-spring-boot-java-maven-applications.md)
+* [☕ Configuring Spring boot applications Pipeline with Nexus & GitLab](setup-server-3/configuring-spring-boot-applications-pipeline-with-nexus-and-gitlab.md)
